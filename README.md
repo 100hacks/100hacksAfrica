@@ -11,27 +11,33 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 ```
 
 
-## Hackathon goals  
+## Hackathon goals 
+```
 -Have a positive social and environment impact
 -Boost visibility and Divesity
 -Contribute to the ecosystem
 -Source talents
 
 ## Hackathon operation
--remind about a waver / code-of-conduct
--Volunteers duties
--Let's chat on slack: 100hacks.slack.com 
--Let's use Github to share documents. Document convention name TeamName-FileName-11182017
-
+- remind ud about a waver / code-of-conduct
+- Volunteers duties
+- Let's chat on slack: 100hacks.slack.com 
+- Let's use Github to share documents. Document convention name TeamName-FileName-11182017
+```
 ## Hackathon Winners & Awards criteria
--app is published to Google Play store, App Store, Web app  
--app has a social and environmental impact
--team is responsible to define metrics for social and environmental impact
+```
+- app is published to Google Play store, App Store, Web app  
+- app has a social and environmental impact
+- team is responsible to define metrics for social and environmental impact
+```
 
 ## Hackathon Time Line
--Socialize > Eat > Listen, Team up > Pitch > Build > Eat > Build > Eat > Build > Demo > 1st 3 teams Rewarded > Ship > Measure impact > Demo and winner at next hackathon > Get Reward 
+```
+- Socialize > Eat > Listen > Team up > Pitch > Build > Eat > Build > Eat > Build > Demo > 1st 3 teams Rewarded > Ship > Measure impact > Demo and winner at next hackathon > Get Rewards
+```
 
 ## Saturday
+```
 10:00 am - Brunch+Social
 11:00 am - Introduction + Code of Conduct (need volunteers), social share #100hacks, #100hacksAfrica, #letsBuild100hacks #letsBuild100Apps
 -Hackathon Mission statement
@@ -46,6 +52,7 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 10:00 am - Brunch+Social
 12:00 pm - 15mn Demo
 01:00 pm - End
+```
 
 
 ## Sponsors that we are seeking
