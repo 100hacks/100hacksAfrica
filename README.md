@@ -67,7 +67,7 @@ Measure impact > Demo and winner at next hackathon > THE Reward
 10:00 am - Brunch+Social
 11:00 am - Introduction 
 - Slide hackathon
-- Code of Conduct Annoucement
+- Code of Conduct Announcement
 - Need volunteers 
 11:30 am - Submit team members and team name in Github : TeamName-11182017
 create new file https://github.com/100hacks/100hacksAfrica
