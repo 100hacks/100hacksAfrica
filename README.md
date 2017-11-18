@@ -11,10 +11,10 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 
 ## Hackathon goals 
 ```
--Have a positive social and environment impact
--Boost visibility and Divesity
--Contribute to the ecosystem
--Source talents
+- Have a positive social and environment impact
+- Boost visibility and Divesity
+- Contribute to the ecosystem
+- Source talents
 ```
 
 ## Hackathon operation
@@ -40,9 +40,9 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 ```
 10:00 am - Brunch+Social
 11:00 am - Introduction + Code of Conduct (need volunteers), social share #100hacks, #100hacksAfrica, #letsBuild100hacks #letsBuild100Apps
--Hackathon Mission statement
--Hackathon goals
--Hackathon hackathon rules - see eventbrite
+- Hackathon Mission statement
+- Hackathon goals
+- Hackathon hackathon rules - see eventbrite
 11:30 am - Submit team members and team name in Github : TeamName-11182017
 12:00 pm - 4mn Pitch + team name (give them a format): TeamName-Pitch-11182017
 01:00 pm - Lunch
