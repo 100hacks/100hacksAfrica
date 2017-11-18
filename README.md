@@ -8,7 +8,6 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 - Africa November 18th 2017
 ```
 
-
 ## Hackathon goals 
 ```
 - Have a positive social and environment impact
@@ -52,7 +51,6 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 12:00 pm - 15mn Demo
 01:00 pm - End
 ```
-
 
 ## Sponsors that we are seeking
 -????
