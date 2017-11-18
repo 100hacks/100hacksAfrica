@@ -1,9 +1,8 @@
-
 # Hackathon to build 100 apps that fix 100 real problems in Africa.
 I am launching a monthly hack-a-thon to build 100 apps that have a positive social and environmental impact.
 Sign up as a team, bring along your ideas and deploy an app, measure the impact with the chance for your team to take home a prize.
 
-## LETS BUILD 100HACKS
+## #LETSBUILD100HACKS #LETSBUILD100APPS
 
 ## Here are our themes:
 ```
@@ -32,10 +31,9 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 ## Hackathon Time Line
 -Socialize > Eat > Listen, Team up > Pitch > Build > Eat > Build > Eat > Build > Demo > 1st 3 teams Rewarded > Ship > Measure impact > Demo and winner at next hackathon > Get Reward 
 
-
 ## Saturday
 10:00 am - Brunch+Social
-11:00 am - Introduction + Code of Conduct (need volunteers)
+11:00 am - Introduction + Code of Conduct (need volunteers), social share #100hacks, #100hacksAfrica, #letsBuild100hacks #letsBuild100Apps
 -Hackathon Mission statement
 -Hackathon goals
 -Hackathon hackathon rules - see eventbrite
