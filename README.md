@@ -18,7 +18,7 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 
 ## Hackathon operation
 ```
-- remind ud about a waver / code-of-conduct
+- reminder about a waver / code-of-conduct
 - Volunteers duties
 - Let's chat on slack: 100hacks.slack.com 
 - Let's use Github to share documents. Document convention name TeamName-FileName-11182017
