@@ -1,6 +1,8 @@
 # Hackathon to build 100 apps that fix 100 real problems in Africa.
+```
 I am launching a monthly hack-a-thon to build 100 apps that have a positive social and environmental impact.
 Sign up as a team, bring along your ideas and deploy an app, measure the impact with the chance for your team to take home a prize.
+```
 
 ## Here are our themes:
 ```
@@ -23,21 +25,42 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 - Let's chat on slack: 100hacks.slack.com 
 - Let's use Github to share documents. Document convention name TeamName-FileName-11182017
 ```
-## Hackathon Winners & Awards criteria
+## Hackathon Winners & Prizes criteria
 ```
 - app is published to Google Play store, App Store, Web app  
 - app has a social and environmental impact
 - team is responsible to define metrics for social and environmental impact
+- Usefulness
+- Is the hack practical given its target audience?
+- Is it something that the user base would actually use?
+- Does it fulfill a need people have?
+Prizes
+- Best Environment/Social Impact Hack
+- Best use of TensorFlow, Salesforce Einstein or any Artificial Intelligence Api
+- Best use of Blockchain Technolog
+- Best Beginner Hack (first timers)
+- Volunteer Hack 
+```
+## JUDGES
+```
+- How many Downloads, Pageviews or Users 
+- How many Reviews, Testimonials, feedbacks or stories
 ```
 
 ## Hackathon Time Line
 ```
-- Socialize > Eat > Listen > Team up > Pitch > Build > Eat > Build > Eat > Build > Demo > 1st 3 teams Rewarded > Ship > Measure impact > Demo and winner at next hackathon > Get Rewards
-```
+Socialize > Eat > Listen > Team up > Pitch > Build > Eat > 
+Build > Eat > Build > Demo > a Reward > Ship > 
+Measure impact > Demo and winner at next hackathon > THE Reward
 ```
 ## Saturday
+```
 10:00 am - Brunch+Social
-11:00 am - Introduction + Code of Conduct (need volunteers), social share #100hacks, #100hacksAfrica, #letsBuild100hacks #letsBuild100Apps
+11:00 am - Introduction 
+- Slide hackathon
+- Code of Conduct Annoucement
+- Need volunteers
+- Use Social share #100hacks, #100hacksAfrica, #letsBuild100hacks #letsBuild100Apps
 - Hackathon Mission statement
 - Hackathon goals
 - Hackathon hackathon rules - see eventbrite
@@ -45,8 +68,9 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 12:00 pm - 4mn Pitch + team name (give them a format): TeamName-Pitch-11182017
 01:00 pm - Lunch
 02:00 pm - Starts
-
+```
 ## Sunday
+```
 10:00 am - Brunch+Social
 12:00 pm - 15mn Demo
 01:00 pm - End
