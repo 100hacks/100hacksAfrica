@@ -17,8 +17,10 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 -Boost visibility and Divesity
 -Contribute to the ecosystem
 -Source talents
+```
 
 ## Hackathon operation
+```
 - remind ud about a waver / code-of-conduct
 - Volunteers duties
 - Let's chat on slack: 100hacks.slack.com 
