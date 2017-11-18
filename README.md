@@ -68,22 +68,18 @@ Measure impact > Demo and winner at next hackathon > THE Reward
 11:00 am - Introduction 
 - Slide hackathon
 - Code of Conduct Annoucement
-- Need volunteers
-- Use Social share #100hacks #100impacts #LetsBuild100Apps, #LetsBuild100hacks, #100hacksAfrica  
- 
-- Hackathon Mission statement
-- Hackathon goals
-- Hackathon hackathon rules - see eventbrite
+- Need volunteers 
 11:30 am - Submit team members and team name in Github : TeamName-11182017
-12:00 pm - 4mn Pitch + team name (give them a format): TeamName-Pitch-11182017
+create new file https://github.com/100hacks/100hacksAfrica
+12:00 pm - 4min Pitch + team name (give them a format): TeamName-Pitch-11182017
 01:00 pm - Lunch
-02:00 pm - Starts
+02:00 pm - letsbuilds100hack
 ```
 ## Sunday
 ```
-10:00 am - Brunch+Social
 12:00 pm - 15mn Demo
-01:00 pm - End
+01:30 pm - Award & Prizes
+02:00 pm - End
 ```
 
 ## Sponsors that we are seeking
