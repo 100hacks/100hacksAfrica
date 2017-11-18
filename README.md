@@ -6,8 +6,10 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 ## LETS BUILD 100HACKS
 
 ## Here are our themes:
--Puerto Rico December 16ht 2017
--Africa November 18th 2017
+```
+- Puerto Rico December 16ht 2017
+- Africa November 18th 2017
+```
 
 
 ## Hackathon goals  
