@@ -46,7 +46,6 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 01:00 pm - End
 
 
-
 ##Sponsors that we are seeking
 -????
 
