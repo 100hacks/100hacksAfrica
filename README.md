@@ -60,7 +60,7 @@ Measure impact > Demo and winner at next hackathon > THE Reward
 - Slide hackathon
 - Code of Conduct Annoucement
 - Need volunteers
-- Use Social share #100hacks, #100hacksAfrica, #letsBuild100hacks #letsBuild100Apps
+- Use Social share #LetsBuild100Apps, #LetsBuild100hacks,  #100hacks, #100hacksAfrica,  #100hacks 
 - Hackathon Mission statement
 - Hackathon goals
 - Hackathon hackathon rules - see eventbrite
