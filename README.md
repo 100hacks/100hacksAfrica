@@ -16,7 +16,16 @@ Sign up as a team, bring along your ideas and deploy an app, measure the impact 
 - Boost visibility and Divesity
 - Contribute to the ecosystem
 - Source talents
+- Have fun
 ```
+
+## Social share
+- #100hacks 
+- #100impacts 
+- #LetsBuild100Apps, 
+- #LetsBuild100hacks, 
+- #100hacksAfrica #100appsAfrica 
+- #100hacksPuertoRico #100appsPuertoRico
 
 ## Hackathon operation
 ```
