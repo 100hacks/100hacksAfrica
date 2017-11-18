@@ -43,8 +43,8 @@ Prizes
 ```
 ## JUDGES
 ```
-- How many Downloads, Pageviews or Users 
-- How many Reviews, Testimonials, feedbacks or stories
+- Phase 1 winner: All of Us voting for the best apps on slack(most likes).
+- Phase 2 winner: How many Downloads, Pageviews or Users, Reviews, testimonials, feedbacks or stories, etc
 ```
 
 ## Hackathon Time Line
