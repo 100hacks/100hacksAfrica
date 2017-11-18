@@ -2,8 +2,6 @@
 I am launching a monthly hack-a-thon to build 100 apps that have a positive social and environmental impact.
 Sign up as a team, bring along your ideas and deploy an app, measure the impact with the chance for your team to take home a prize.
 
-## #LETSBUILD100HACKS #LETSBUILD100APPS
-
 ## Here are our themes:
 ```
 - Puerto Rico December 16ht 2017
